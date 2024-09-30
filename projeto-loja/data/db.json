@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "fd04",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2022,
+      "price": 120000
+    },
+    {
+      "id": "db24",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "price": 110000
+    },
+    {
+      "id": "0e99",
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "price": 300000
+    },
+    {
+      "id": "0278",
+      "brand": "Chevrolet",
+      "model": "Onix",
+      "year": 2022,
+      "price": 80000
+    }
+  ]
+}
